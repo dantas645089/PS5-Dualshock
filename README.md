@@ -5,8 +5,8 @@
 
 <h2>Tecnologias utilizadas<h2/>
 <br>
-  <p>-HTML<p>
-  <p>-CSS<p>
+    -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
   <p>-javaScript<p>
 
 <img src="https://github.com/dantas645089/PS5-Dualshock/blob/master/assets/desktop.png?raw=true">
