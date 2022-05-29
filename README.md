@@ -2,6 +2,8 @@
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<br>
+<h3>o maoir objetivo dessa página foi para praticar como adaptar interfaces para abrir em celulares sem ter alguma deformidade<h3>
 
 <h2>Tecnologias utilizadas<h2/>
 <br>
