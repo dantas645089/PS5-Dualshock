@@ -23,4 +23,6 @@
       
 <h2> O aplicativo foi guiado pelo meu mentor Rodolfo Mori no projeto 30D realizado no Youtube. O site consiste em uma loja playstation, que está apresentando uma página de compra controlador PS5 DualShock. Usei HTML5, CSS3, Respons responsive Web Design, Keyframe e JavaScript.<h2>
       
+      https://dantas645089.github.io/PS5-Dualshock/
+      
       
