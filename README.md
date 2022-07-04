@@ -14,6 +14,15 @@
 <img src="https://github.com/dantas645089/PS5-Dualshock/blob/master/assets/mobile.png?raw=true">
       <br>
       
+    - **Home Page:** The page is a representation of a playstation controller store.
+## :dart: Features ##
+
+:heavy_check_mark: Estruturação da Página;\
+:heavy_check_mark: Estilização da Página;\
+:heavy_check_mark: Deixando a página responsiva;\
+:heavy_check_mark: Finalizado;
+  
+      
       
 ## 📄 Explicação
       
